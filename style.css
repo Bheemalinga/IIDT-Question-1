@@ -1,0 +1,39 @@
+body {
+  padding: 10px;
+  margin: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table tr {
+  text-align: left;
+}
+
+.total {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+}
+
+th {
+  text-align: center;
+  background-color: #85b148;
+  color: rgb(255, 255, 255);
+}
+
+td {
+  padding-right: 25px;
+}
+
+.marks-table td {
+  text-align: center;
+  padding-right: 100px;
+}
+
+.bg-f7ffe5 {
+  background-color: #efffc7;
+}
+
+.bg-dcffb7 {
+  background-color: #ddfbbd;
+}
